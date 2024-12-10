@@ -2,5 +2,6 @@ keras==3.7.0
 matplotlib==3.9.3
 mtcnn==1.0.0
 numpy==2.2.0
+opencv-python==4.10.0.84
 opencv_contrib_python==4.10.0.84
 Pillow==11.0.0
